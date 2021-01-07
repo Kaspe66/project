@@ -1,0 +1,32 @@
+.boxdiv{
+    width: 360px;
+    height: 360px;
+    border: solid 1px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;;
+}
+.boxtikcit{
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin: 2px;
+    user-select: none;
+    border-radius: 2px;
+    text-align: center;
+}
+.boxtikcit:hover{
+    border: 1px solid #8a2be2;
+}
+.active{
+    background: blueviolet;
+    
+}
+.clikbox{
+    width: 150px;
+    height: 35px;
+    border: solid 1px black;
+
+
+}
